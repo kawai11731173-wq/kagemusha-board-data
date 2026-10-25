@@ -6,3 +6,7 @@
 
 - 作っているのは private リポジトリ `kagemusha-demo` の `.github/workflows/board-data.yml`
 - 置いてあるのは `board-data.json` / `README.md` / `.nojekyll` の3つだけ
+
+## mihon/（見本・10/25〜）
+HPなどの見本を**合言葉で暗号化したHTML**だけを置く場所。合言葉が無ければ中身は読めません。
+作っているのは `kagemusha-demo` の `scripts/mihon-lock.mjs`。
